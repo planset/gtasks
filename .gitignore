@@ -1,0 +1,36 @@
+# zsh
+.zshrc.local
+
+# mac
+.DS_Store
+
+#
+.*~
+*~
+tags
+TAGS
+
+# python
+*.o
+*.py[co]
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+#bin
+var
+sdist
+develop-eggs
+.installed.cfg
+
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+
+#Translations
+*.mo
+

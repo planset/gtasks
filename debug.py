@@ -1,0 +1,2 @@
+import gtasks
+gtasks.main()
